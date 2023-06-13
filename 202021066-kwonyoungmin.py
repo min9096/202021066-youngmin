@@ -3,11 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import control
 
-def main():
-  st.write('202021066 권영민')
-
-if_name__=='_main_':
-main()
 
 # 전달함수 G(s) 정의
 num = [100] # 분자 계수
